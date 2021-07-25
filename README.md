@@ -1,1 +1,2 @@
-# Statistical-inference
+# Statistical-inference  
+R-lab for biostatistics
