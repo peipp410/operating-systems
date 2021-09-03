@@ -1,2 +1,6 @@
-# Statistical-inference  
-R-lab for biostatistics
+# Operating systems(self-learning)  
+**References**:
+
+Operating Systems: Three Easy Pieces 
+
+BI290 course materials
